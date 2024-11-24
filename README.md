@@ -1,1 +1,1 @@
-# hands-on-dbt
+# Hands On DBT
